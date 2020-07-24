@@ -1,3 +1,6 @@
+# New Updates 2020
+
+
 # Computer Vision Annotation Tool (CVAT)
 
 [![Build Status](https://travis-ci.org/opencv/cvat.svg?branch=develop)](https://travis-ci.org/opencv/cvat)
